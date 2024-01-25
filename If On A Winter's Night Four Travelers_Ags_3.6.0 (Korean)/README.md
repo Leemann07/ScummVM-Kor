@@ -15,4 +15,4 @@ AGS팀의 도움으로 ScummVM 한글패치 적용이 가능해졌습니다.
 adventuregamestudio/ags#2310
 Thanks to @ivan-mogilko
 
-폰트는 @quiple 님의 갈무리 Galmuri7.ttf 폰트를 사용하였습니다.
+폰트는 @quiple 님의 갈무리 Galmuri9.ttf 폰트를 사용하였습니다.
